@@ -26,6 +26,8 @@ Another important turning point was understanding Twitter data. The Twitter API 
 Python code will help us preprocess tweets using the Twitter API v2. Data collection will include popular topics such as politics or sports as well as less popular topics to understand how our model works under different conditions.
 
 
+## Timeline
+
 | Tasks                        | 2022-Q1 | 2022-Q2 | 2022-Q3 | 2022-Q4 | 2023-Q1 |
 |------------------------------|---------|---------|---------|---------|---------|
 | Literature Search            |    X    |    X    |         |         |         |
